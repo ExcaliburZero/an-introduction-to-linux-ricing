@@ -1,4 +1,3 @@
-My Awesome Book
-=======
+#An Introduction to Linux Ricing
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+An introduction to the basic concepts and tools used in creating a custom Linux system.
